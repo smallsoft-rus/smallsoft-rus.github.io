@@ -1,6 +1,6 @@
 # SmallSoft - бесплатные программы
 
-[Скачать программы](http://smallsoft2.blogspot.com/p/smallsoft.html)
+[Скачать программы](https://smallsoftru.wordpress.com/)
 
 Статьи:
 
