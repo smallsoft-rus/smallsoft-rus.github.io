@@ -85,4 +85,4 @@ int main()
 
 Таким образом, мы научились сохранять и анализировать дампы памяти для диагностики трудновоспроизводимых сбоев в программах для Windows. В Linux/Unix, к слову, аналогом этого метода будет использование [Core dumps](https://rtfm.co.ua/linux-sozdanie-coredump-pamyati-processa-debian-i-systemd-coredump/) и их анализ с помощью GDB. Один из главных плюсов дампов памяти в том, что не нужно вносить никаких изменений в код, как это было бы в случае добавления дополнительного логирования. Если вы хотите реализовать аналогичную диагностику, с получением стеков, через логирование, для этого можно использовать библиотеку [ErrLib](https://github.com/MSDN-WhiteKnight/ErrLib).
 
-(C) SmallSoft, 2022 - http://smallsoft2.blogspot.com/
+(C) SmallSoft, 2022 - https://smallsoftru.wordpress.com/
